@@ -2,7 +2,7 @@
 ## Project: `The 12 Courses System`
 ---
 
-a simple tagline
+a simple tagline / this is the homepage
 youtube [link] of recording
 
 ## Student Information
